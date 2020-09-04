@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003184704587",
+    "firebase_url": "https://iostudy-abb37.firebaseio.com",
+    "project_id": "iostudy-abb37",
+    "storage_bucket": "iostudy-abb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003184704587:android:b5434078600a48647ed1ce",
+        "android_client_info": {
+          "package_name": "com.example.iostudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003184704587-ue05u4elbn1t89ldt0ekqef84t27eo3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfKuZ_Us4NQ0ND2vf8rmc08PVXfnGLOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003184704587-ue05u4elbn1t89ldt0ekqef84t27eo3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
